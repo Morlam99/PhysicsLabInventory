@@ -1,4 +1,4 @@
-
+package data;
 public class Department {
     private User admin;
     private User supervisor;
